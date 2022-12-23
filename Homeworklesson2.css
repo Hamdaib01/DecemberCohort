@@ -1,0 +1,75 @@
+body{
+    background-color: peachpuff;
+}
+
+.FirstDiv{
+    border-style: dotted;
+    border-width: 3px;
+    text-align: center;
+    background-color: beige;
+    color: brown;
+    font-size: large;
+}
+
+h1{
+    font-style: italic;
+    font-size: 40px;
+}
+
+#hamda{
+    font-size: large;
+    color:rgb(196, 84, 43);
+    font-weight: bold;
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+.SecondDiv{
+    background-color:rgb(187, 106, 59);
+    border-top-style: double;
+    border-bottom-style: double;
+    border-width: 4px;
+    text-align: center;
+    font-size: medium;
+    color: whitesmoke;
+    list-style-position: inside;
+}
+
+.ThirdDiv{
+    text-align: center;
+    font-size: large;
+    color:rgb(196, 84, 43);
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#Ibs{
+    text-align:center;
+    list-style-position: inside;
+    color: brown;
+    background-color: lightgoldenrodyellow;
+    border-top-style: double;
+    border-bottom-style: double;
+    border-width: 4px;
+    font-size: medium;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-style: hidden;
+}
+
+img{
+    border-radius: 50%;
+}
+
+
+
+
+
+
+
