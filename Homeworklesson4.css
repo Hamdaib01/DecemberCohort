@@ -5,6 +5,34 @@ body{
     padding: 4em 
 }
 
+#nav{
+   
+    list-style-type: none;
+    display: flex;
+    background-color:rgb(196, 84, 43);
+    justify-content: center;
+    max-width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+}
+
+.items{
+    display: block;
+    padding: 10px 15px;
+    border: 1px solid white;
+    border-radius: 5px;
+    margin: 8px
+    
+}
+
+li a{
+    text-decoration: none;
+    color:white;
+    
+}
+
+
 .FirstDiv{
     border-style: dotted;
     border-radius: 20px;
@@ -84,21 +112,15 @@ h1{
     display:block;
     margin-left: auto;
     margin-right: auto;
-}
-
-
-.center{
     border-radius: 20%;
 }
 
-.Preparations{
-    border-radius: 20%;
-}
 ul{
     list-style-type: circle;
 }
 
 ul, ol{
+
     padding-right: 2em;
 }
 
@@ -114,6 +136,9 @@ ul, ol{
      text-decoration: underline;
 }
 
+a{
+    color: brown;
+}
 
 
 
